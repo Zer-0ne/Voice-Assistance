@@ -1,1 +1,2 @@
 # Voice-Assistance
+# Plateform dependent 
