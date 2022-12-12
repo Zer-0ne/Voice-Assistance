@@ -23,14 +23,8 @@ import warnings
 class voice_assistance():
     def __init__(self):
         self.dict = {
-            'mother' : '+91 9717852486',
-            'rohit' : '+91 7206154231',
-            'monitor' : '+91 9205271827',
-            'rahul' : '+91 9354664056',
-            'kaif' : '+91 8130756130',
-            'dad' : '+91 9871184586',
-            'tauseef' : '+91 6203926236',
-            'adil' or 'aadil' : '+91 9650679096'
+            'kaif' : '+91 ************',
+            'tauseef' : '+91 **********',
         }
         self.engine = pyt.init()
         self.voices = self.engine.getProperty('voices')
